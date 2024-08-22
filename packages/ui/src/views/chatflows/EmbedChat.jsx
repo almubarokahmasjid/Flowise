@@ -166,7 +166,7 @@ const chatwindowConfig = (isReact = false) => {
                     },
                     footer: {
                         textColor: '#303235',
-                        text: 'Powered by',
+                        text: 'Muna Assistant by',
                         company: 'Flowise',
                         companyLink: 'https://flowiseai.com',
                     }
@@ -213,7 +213,7 @@ const chatwindowConfig = (isReact = false) => {
                 },
                 footer: {
                     textColor: '#303235',
-                    text: 'Powered by',
+                    text: 'Muna Assistant by',
                     company: 'Flowise',
                     companyLink: 'https://flowiseai.com',
                 }
